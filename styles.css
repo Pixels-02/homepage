@@ -20,7 +20,8 @@
 
 
 .header{
-    width: 100%;
+    width: 98%;
+    margin:auto;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
